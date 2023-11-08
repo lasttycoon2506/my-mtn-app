@@ -2,7 +2,7 @@
 
 GUI Mountain survival game written in Python with navigational pages
 
-#Introduction
+## Introduction
 
 Outcome (survive/die) dependent upon user choices of equipment to bring
 
