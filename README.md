@@ -1,4 +1,6 @@
-# my-mtn-app
+# My-Mtn-app
+
+GUI Mountain survival game written in Python with navigational pages
 
 TO RUN
 ```bash
