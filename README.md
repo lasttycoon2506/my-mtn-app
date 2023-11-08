@@ -1,6 +1,6 @@
 # My-Mtn-app
 
-GUI Mountain survival game written in Python with navigational pages
+GUI Mountain survival game written in Python with navigational pages and optioned outcome
 
 ## Introduction
 
