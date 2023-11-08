@@ -15,3 +15,5 @@ Outcome (survive/die) dependent upon user choices of equipment to bring and diff
 ## Usage
 Simply start the program from the project directory, click "PLAY" and choose the desired options from each category. Click "CLIMB" to determine if you survived or died based on your choices, or "RESET" to choose different options. 
 ## Example
+
+![Screenshot 2023-11-08 120032](https://github.com/lasttycoon2506/my-mtn-app/assets/114425878/d098c19a-6b0d-491e-a1ca-c92b9dff1465)
