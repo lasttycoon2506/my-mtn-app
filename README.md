@@ -16,5 +16,5 @@ Outcome (survive/die) dependent upon user choices of equipment to bring
 
 
 ## Usage
-
+Simply start the program from the project directory, click "PLAY" and choose the desired options from each category. 
 ## Example
