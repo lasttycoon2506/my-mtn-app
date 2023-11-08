@@ -4,7 +4,7 @@ GUI Mountain survival game written in Python with navigational pages and optione
 
 ## Introduction
 
-Outcome (survive/die) dependent upon user choices of equipment to bring and difficulty of mountain being climbed
+Outcome (survive/die) dependent upon user choices and difficulty of mountain being climbed
 
 ## Installation
 ```
@@ -17,3 +17,4 @@ Simply start the program from the project directory, click "PLAY" and choose the
 ## Example
 
 ![Screenshot 2023-11-08 120032](https://github.com/lasttycoon2506/my-mtn-app/assets/114425878/d098c19a-6b0d-491e-a1ca-c92b9dff1465)
+![Screenshot 2023-11-08 120305](https://github.com/lasttycoon2506/my-mtn-app/assets/114425878/4b48dc79-61d6-44b1-8633-42f95ba3ef98)
