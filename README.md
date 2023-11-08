@@ -9,9 +9,9 @@ Outcome (survive/die) dependent upon user choices of equipment to bring
 ## Installation
 
 ```
--git clone https://github.com/lasttycoon2506/my-mtn-app.git
--cd my-mtn-app
--run
+1) git clone https://github.com/lasttycoon2506/my-mtn-app.git
+2) cd my-mtn-app
+3) run
 ```
 
 
