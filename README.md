@@ -4,7 +4,7 @@ GUI Mountain survival game written in Python with navigational pages
 
 ## Introduction
 
-Outcome (survive/die) dependent upon user choices of equipment to bring
+Outcome (survive/die) dependent upon user choices of equipment to bring and difficulty of mountain being climbed
 
 ## Installation
 
@@ -16,5 +16,5 @@ Outcome (survive/die) dependent upon user choices of equipment to bring
 
 
 ## Usage
-Simply start the program from the project directory, click "PLAY" and choose the desired options from each category. 
+Simply start the program from the project directory, click "PLAY" and choose the desired options from each category. Click "CLIMB" to determine if you survived or died based on your choices, or "RESET" to choose different options. 
 ## Example
