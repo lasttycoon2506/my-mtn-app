@@ -8,9 +8,11 @@ Outcome (survive/die) dependent upon user choices of equipment to bring
 
 ## Installation
 
+```
 -git clone https://github.com/lasttycoon2506/my-mtn-app.git
 -cd my-mtn-app
 -run
+```
 
 
 ## Usage
