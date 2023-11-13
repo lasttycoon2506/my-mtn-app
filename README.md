@@ -4,7 +4,7 @@ GUI Mountain survival game written in Python with navigational pages and optione
 
 ## Introduction
 
-Outcome (survive/die) dependent upon user choices and difficulty of mountain being climbed
+Outcome (survive/die) dependent upon user choices of equipment/weather and difficulty of mountain being climbed
 
 ## Installation
 ```
