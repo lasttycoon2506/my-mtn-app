@@ -1,6 +1,6 @@
 # My-Mtn-app
 
-GUI Mountain survival game with navigational pages and optioned outcome
+GUI interactive Mountain survival game with navigational pages and optioned outcome
 
 ## Introduction
 
